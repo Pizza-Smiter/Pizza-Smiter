@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hey Y'all
 
+- I've been playing piano as a hobby for a couple years now
+- I enjoy making music in FL Studio
+- I like coding in Gamemaker Studio 2
+- My top 2 favorite games are Deltarune and Piza Tower
+- For more information please visit my website (which I have yet to make)
 <!--
 **Pizza-Smiter/Pizza-Smiter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
