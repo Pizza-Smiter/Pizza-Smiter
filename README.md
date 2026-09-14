@@ -1,10 +1,14 @@
 ## Hey Y'all
 
 - I've been playing piano as a hobby for a couple years now
-- I enjoy making music in FL Studio
-- I like coding in Gamemaker Studio 2
-- My top 2 favorite games are Deltarune and Piza Tower
-- For more information please visit my website (which I have yet to make)
+- I'm Christian
+- I compose music in FL Studio
+- I mainly code in Gamemaker Studio 2
+- I'm what some might consider a "gamer"
+- For more information please visit my website www.pizzasmiter.com
+
+
+
 <!--
 **Pizza-Smiter/Pizza-Smiter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
