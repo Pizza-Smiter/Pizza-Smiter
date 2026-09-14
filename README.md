@@ -1,5 +1,6 @@
 ## Hey Y'all
 
+Here's some things about me
 - I've been playing piano as a hobby for a couple years now
 - I'm Christian
 - I compose music in FL Studio
